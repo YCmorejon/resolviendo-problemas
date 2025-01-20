@@ -13,15 +13,23 @@ entrada = [1, 2, 3, 4, 5]
 salida = 15
 """
 
-# Respuesta
+# Lista de números
+numeros = [2, 4, 6, 8]
 
-# Lista de números:
-lista = [2, 4, 6, 8]
+# Definiendo la función
+def sumar_lista(lista):
+    """
+    Esta función toma una lista de números y devuelve la suma de todos sus elementos.
 
-# Definiendo función
-def suma(lista):
+    Parámetros:
+    lista (list): Una lista de números (enteros o decimales).
+
+    Retorna:
+    int o float: La suma de los números en la lista.
+    """
     return sum(lista)
 
-# Mostrando resultado
-print(suma(lista))  
+# Mostrando el resultado
+resultado = sumar_lista(numeros)
+print(f"La suma de los números {numeros} es: {resultado}")  # Salida esperada: 20
 
