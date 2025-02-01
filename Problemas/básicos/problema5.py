@@ -6,3 +6,9 @@ verdadero o falso (Bool) según sean o no anagramas.
  NO hace falta comprobar que ambas palabras existan.
  Dos palabras exactamente iguales no son anagrama.
  """
+
+#Respuesta
+
+# Anagramas
+print(f"¿{word1} es anagrama de {word2}?: {sorted(word1) == sorted(word2)}")
+
