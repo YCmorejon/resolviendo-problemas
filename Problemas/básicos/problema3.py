@@ -16,7 +16,6 @@ numeros = [3, 1, 9, 2, 5]
 Salida:  
 9
 """
-#Respuesta 
 
 # Lista de números
 lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -32,3 +31,26 @@ def valor_maximo(lista):
 # Mostrando el resultado
 resultado = valor_maximo(lista)
 print(f"El valor máximo de la lista es: {resultado}")
+
+# Explicación 
+
+"""
+1-Lista de entrada:
+Definimos una lista de números (lista) que será la entrada de nuestra función.
+
+2-Definición de la función:
+Creamos la función valor_maximo(lista) que toma como parámetro una lista de números.
+
+3-Inicialización del valor máximo:
+Usamos el primer elemento de la lista (lista[0]) como punto de partida para comparar.
+
+4-Recorrido de la lista:
+Iteramos sobre cada elemento de la lista:
+-Si encontramos un número mayor que el actual valor almacenado en maximo, lo actualizamos.
+
+5-Devolución del resultado:
+Retornamos el valor máximo al final del bucle.
+
+6-Mostrar el resultado:
+Llamamos a la función con la lista de entrada y mostramos el número máximo con un mensaje claro.
+"""
