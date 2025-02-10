@@ -12,3 +12,5 @@ verdadero o falso (Bool) según sean o no anagramas.
 # Anagramas
 print(f"¿{word1} es anagrama de {word2}?: {sorted(word1) == sorted(word2)}")
 
+#Explicacion
+
