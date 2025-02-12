@@ -6,6 +6,7 @@ Ejemplo: Si el usuario ingresa 5, la salida será 1 + 2 + 3 + 4 + 5 = 15.
 """
 
 
+#Respuesta
 
 # Solicitar la variable del usuario
 while True:
@@ -26,3 +27,5 @@ def calcular(n):
 # Mostrar el resultado
 resultado = calcular(N)
 print(f"El resultado es: {resultado}")
+
+#Explicacion
