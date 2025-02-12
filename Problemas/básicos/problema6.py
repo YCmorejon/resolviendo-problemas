@@ -1,5 +1,6 @@
+#Ejercicio 1: Suma de los primeros N números
+
 """
-Ejercicio 1: Suma de los primeros N números
 Enunciado: Escribe un programa en Python que calcule la suma de los primeros N números naturales (empezando desde 1). La variable N debe ser proporcionada por el usuario.
 Ejemplo: Si el usuario ingresa 5, la salida será 1 + 2 + 3 + 4 + 5 = 15.
 """
