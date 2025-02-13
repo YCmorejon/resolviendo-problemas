@@ -19,4 +19,4 @@ Crea un programa capaz de gestionar una pieza de Tetris.
 recibiendo una acción cada vez que se llame, mostrando cómo se visualiza en la pantalla  de juego.
 - Las acciones que se pueden aplicar a la pieza son: derecha, izquierda, abajo, rotar.
 - Debes tener en cuenta los límites de la pantalla de juego.
- """
+"""
