@@ -1,5 +1,5 @@
 """
- EJERCICIO:
+EJERCICIO:
 ¡Deadpool y Wolverine se enfrentan en una batalla épica!
 -Crea un programa que simule la pelea y determine un ganador.
 -El programa simula un combate por turnos, donde cada protagonista posee unos
