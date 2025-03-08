@@ -8,7 +8,7 @@ Requisitos:
 1. El laberinto está formado por un cuadrado de 6x6 celdas.
 2. Los valores de las celdas serán:
 -⬜️ Vacío
-- ⬛️ Obstáculo
+-⬛️ Obstáculo
 - 🐭 Mickey
 - 🚪 Salida
 Acciones:
