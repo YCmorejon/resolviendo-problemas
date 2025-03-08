@@ -7,7 +7,7 @@ Desarrolla un programa para ayudarlo a escapar.
 Requisitos:
 1. El laberinto está formado por un cuadrado de 6x6 celdas.
 2. Los valores de las celdas serán:
-- ⬜️ Vacío
+-⬜️ Vacío
 - ⬛️ Obstáculo
 - 🐭 Mickey
 - 🚪 Salida
