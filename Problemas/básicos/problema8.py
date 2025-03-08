@@ -9,7 +9,7 @@ Requisitos:
 2. Los valores de las celdas serán:
 -⬜️ Vacío
 -⬛️ Obstáculo
-- 🐭 Mickey
+-🐭 Mickey
 - 🚪 Salida
 Acciones:
 1. Crea una matriz que represente el laberinto (no hace falta que se genere de manera automática).
