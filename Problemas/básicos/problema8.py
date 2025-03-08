@@ -10,7 +10,7 @@ Requisitos:
 -⬜️ Vacío
 -⬛️ Obstáculo
 -🐭 Mickey
-- 🚪 Salida
+-🚪 Salida
 Acciones:
 1. Crea una matriz que represente el laberinto (no hace falta que se genere de manera automática).
 2. Interactúa con el usuario por consola para preguntarle hacia donde se tiene que desplazar (arriba, abajo, izquierda o derecha).
