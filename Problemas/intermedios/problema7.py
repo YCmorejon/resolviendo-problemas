@@ -4,5 +4,5 @@ Crea un programa que analice texto y obtenga:
 -Longitud media de las palabras.
 -Número de oraciones del texto (cada vez que aparecen un punto).
 -Encuentre la palabra más larga.
-Todo esto utilizando un úbucle.
+Todo esto utilizando un único bucle.
 """
