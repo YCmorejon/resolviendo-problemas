@@ -1,5 +1,5 @@
 """
-EJERCICIO :
+EJERCICIO:
 ¡Disney ha presentado un montón de novedades en su D23! 
 Pero... ¿Dónde está Mickey?
 Mickey Mouse ha quedado atrapado en un laberinto mágico creado por Maléfica.
