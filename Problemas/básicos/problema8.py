@@ -7,10 +7,10 @@ Desarrolla un programa para ayudarlo a escapar.
 Requisitos:
 1. El laberinto está formado por un cuadrado de 6x6 celdas.
 2. Los valores de las celdas serán:
--⬜️ Vacío
--⬛️ Obstáculo
--🐭 Mickey
--🚪 Salida
+-⬜️Vacío
+-⬛️Obstáculo
+-🐭Mickey
+-🚪Salida
 Acciones:
 1. Crea una matriz que represente el laberinto (no hace falta que se genere de manera automática).
 2. Interactúa con el usuario por consola para preguntarle hacia donde se tiene que desplazar (arriba, abajo, izquierda o derecha).
