@@ -101,7 +101,7 @@ imprimir_fizz_buzz()
 
 ---
 
-Resumen del comportamiento
+Resumen del comportamiento:
 - Números normales → se imprimen sin cambios.  
 - Múltiplos de 3 → "fizz".  
 - Múltiplos de 5 → "buzz".  
