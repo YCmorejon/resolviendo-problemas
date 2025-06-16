@@ -7,4 +7,4 @@ Este repositorio contiene una colección de ejercicios y soluciones de lógica d
 - **Soluciones paso a paso:** Explicaciones de cada ejercicio y la forma en que lo resolví.
 - **Desarrollo continuo:** A medida que aprendo más, agregaré más ejercicios y soluciones a este repositorio.
 
-Este repositorio es parte de mi proceso de aprendizaje y me ayuda a practicar diariamente. ¡Si eres un programador en formación o alguien que disfruta de los desafíos, te invito a seguir mi progreso!
+Este repositorio es parte de mi proceso de aprendizaje y me ayuda a practicar diariamente. ¡Si eres un programador en formación o alguien que disfruta de los desafíos, te invito a seguir mi progreso!.
